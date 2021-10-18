@@ -6,5 +6,8 @@
 
 ## Evaluation
  The submissions were scored on the root mean squared error.
+
  ![formula](https://github.com/HashKapi/30-Days_ML-Challenge/blob/main/images/formula.png)
+
+ where 𝑦̂ is the predicted value, 𝑦 is the original value, and 𝑛 is the number of rows in the test data.
 
